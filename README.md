@@ -6,12 +6,4 @@
 使用 OpenWeatherMap API 制作天气，使用 Unsplash API 制作背景图片。
 
 
-### 部分截图：
-
-<img src="https://img-blog.csdnimg.cn/537fad3649b045cc94164e31e445dca0.png">
-
-<img src="https://img-blog.csdnimg.cn/cf2a117f197b4ff7bd8a7034c4d3a137.png">
-
-<img src="https://img-blog.csdnimg.cn/40d7074e825e48729ef9675badcff008.png">
-
 
